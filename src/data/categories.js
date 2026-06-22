@@ -1,0 +1,58 @@
+export const categories = [
+  {
+    id: 'pickles',
+    name: 'Pickles (Achara)',
+    icon: '🫙',
+    description: 'Traditional Odia pickles made with authentic recipes',
+    image: 'https://images.unsplash.com/photo-1606923829579-0cb981a83e2e?w=400&h=400&fit=crop',
+  },
+  {
+    id: 'papad',
+    name: 'Papad',
+    icon: '🥙',
+    description: 'Crispy homemade papads from Berhampur kitchens',
+    image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400&h=400&fit=crop',
+  },
+  {
+    id: 'snacks',
+    name: 'Traditional Snacks',
+    icon: '🍘',
+    description: 'Chakuli, Khaja, and regional favourites',
+    image: 'https://images.unsplash.com/photo-1601050690597-df0565f70950?w=400&h=400&fit=crop',
+  },
+  {
+    id: 'spices',
+    name: 'Spices & Masala',
+    icon: '🌶️',
+    description: 'Freshly ground masalas and spice blends',
+    image: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400&h=400&fit=crop',
+  },
+  {
+    id: 'kewda',
+    name: 'Kewda Products',
+    icon: '🌸',
+    description: 'Fragrant kewda essence and related products',
+    image: 'https://images.unsplash.com/photo-1615485925511-ef3c81a0c8e2?w=400&h=400&fit=crop',
+  },
+  {
+    id: 'sweets',
+    name: 'Sweets',
+    icon: '🍬',
+    description: 'Rasagola, Chhena Poda, and Odia mithai',
+    image: 'https://images.unsplash.com/photo-1587241321921-91a834d82d12?w=400&h=400&fit=crop',
+  },
+  {
+    id: 'festival',
+    name: 'Festival Specials',
+    icon: '🪔',
+    description: 'Seasonal delights for Raja, Durga Puja & more',
+    image: 'https://images.unsplash.com/photo-1605647540924-852290f6b0d5?w=400&h=400&fit=crop',
+  },
+  {
+    id: 'combo',
+    name: 'Combo Packs',
+    icon: '📦',
+    description: 'Curated bundles at great value',
+    image: 'https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&h=400&fit=crop',
+  },
+];
